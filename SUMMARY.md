@@ -24,6 +24,7 @@
        * 1.2.9 运算符优先级
        * 1.2.10 运算符重载
    * 1.3 程序结构
+       * 1.3.1 包命名
 * [工具](chapter2/README.md)
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
