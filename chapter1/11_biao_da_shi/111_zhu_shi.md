@@ -33,25 +33,23 @@ methods definitions
 Although the compiler will not complain about GroovyDoc comments not being associated with the above language elements, you should prepend those constructs with the comment right before it.
 
 
-> /**
->  * A Class description
->  */
-> class Person {
->    /** the name of the person */
->    String name
+> /**  
+>  * A Class description  
+>  */  
+> class Person {  
+>    /** the name of the person */  
+>    String name  
 >
->    /**
->     * Creates a greeting method for a certain person.
->     *
->     * @param otherPerson the person to greet
->     * @return a greeting message
->     */
->    String greet(String otherPerson) {
->       "Hello ${otherPerson}"
->    }
->}
-
-
+>    /**  
+>     * Creates a greeting method for a certain person.  
+>     *  
+>     * @param otherPerson the person to greet  
+>     * @return a greeting message    
+>     */  
+>    String greet(String otherPerson) {  
+>       "Hello ${otherPerson}"  
+>    }  
+>}  
 
 GroovyDoc follows the same conventions as Java’s own JavaDoc. So you’ll be able to use the same tags as with JavaDoc.
 
