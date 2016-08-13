@@ -1,8 +1,8 @@
 # Summary
 
 * [介绍](README.md)
-* [Part I Groovy 语言参考](chapter1/README.md)
-* [Part II 工具](chapter2/README.md)
-* 用户指南
-* 其他
+* [Groovy 语言参考](chapter1/README.md)
+* [工具](chapter2/README.md)
+* [用户指南](chapter3/README.md)
+* [其他](chapter4/README.md)
 
