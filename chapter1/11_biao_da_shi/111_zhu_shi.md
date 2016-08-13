@@ -1,14 +1,14 @@
 # 1.1.1 注释
 
 
-## Single line comment
+## 单行注释
 
 Single line comments start with // and can be found at any position in the line. The characters following //, till the end of the line, are considered part of the comment.
 
 // a standalone single line comment
 println "hello" // a comment till the end of the line
 
-## Multiline comment
+## 多行注释
 
 
 A multiline comment starts with /* and can be found at any position in the line. The characters following /* will be considered part of the comment, including new line characters, up to the first */ closing the comment. Multiline comments can thus be put at the end of a statement, or even inside a statement.
@@ -19,7 +19,7 @@ println "hello" /* a multiline comment starting
                    at the end of a statement */
 println 1 /* one */ + 2 /* two */
 
-## GroovyDoc comment
+## Groovy文档注释
 
 
 Similarly to multiline comments, GroovyDoc comments are multiline, but start with /** and end with */. Lines following the first GroovyDoc comment line can optionally start with a star *. Those comments are associated with:
