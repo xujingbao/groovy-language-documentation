@@ -59,6 +59,5 @@
    * 3.17 创建Swing UI
    * 3.18 Security
    * 3.19 Groovy设计模式
-   * 
 * [其他](chapter4/README.md)
 
