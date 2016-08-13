@@ -27,7 +27,7 @@
        * [1.3.1 包命名](chapter1/13_cheng_xu_jie_gou/131_bao_ming_ming.md)
        * 1.3.2 导入
        * 1.3.3 脚本与类
-   * 1.4 面向对象
+   * [1.4 面向对象](chapter1/14_mian_xiang_dui_xiang/14_mian_xiang_dui_xiang.md)
        * 1.4.1 类型
        * 1.4.2 特性
    * 1.5 闭包
