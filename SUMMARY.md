@@ -24,7 +24,7 @@
        * 1.2.9 运算符优先级
        * 1.2.10 运算符重载
    * [1.3 程序结构](chapter1/13_cheng_xu_jie_gou/13_cheng_xu_jie_gou.md)
-       * 1.3.1 包命名
+       * [1.3.1 包命名](chapter1/13_cheng_xu_jie_gou/131_bao_ming_ming.md)
        * 1.3.2 导入
        * 1.3.3 脚本与类
    * 1.4 面向对象
