@@ -37,7 +37,7 @@
        * 1.5.4 GStrings闭包
        * 1.5.5 强制闭包
        * 1.5.6 函数式编程
-   * 1.6 语义
+   * [1.6 语义](chapter1/16_yu_yi/16_yu_yi.md)
        * 1.6.1 声明
        * 1.6.2 表达式
        * 1.6.3 Promotion and coercion
