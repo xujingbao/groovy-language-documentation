@@ -9,7 +9,7 @@ println "hello" // 注释一直到行尾
 
 ## 多行注释
 
-多行注释以 /* 开始，可以放在一行的任何位置。
+多行注释以 /* 开始，可以放在一行的任何位置。/* 后边的内容是注释的部分，包括新行的字符，以第一个 */ 关闭注释。多行注释因此可以被放在一个什么的结尾，或者声明里边。
 A multiline comment starts with /* and can be found at any position in the line. The characters following /* will be considered part of the comment, including new line characters, up to the first */ closing the comment. Multiline comments can thus be put at the end of a statement, or even inside a statement.
 
 /* a standalone multiline comment
@@ -31,24 +31,26 @@ methods definitions
 
 Although the compiler will not complain about GroovyDoc comments not being associated with the above language elements, you should prepend those constructs with the comment right before it.
 
-> 
-> /**  
->  * A Class description    
->  */  
-> class Person {  
->    /** the name of the person */  
->    String name  
->
->    /**  
->     * Creates a greeting method for a certain person.  
->     *  
->     * @param otherPerson the person to greet  
->     * @return a greeting message    
->     */  
->    String greet(String otherPerson) {  
->       "Hello ${otherPerson}"  
->    }  
->}  
+ 
+``` 
+/**  
+  * A Class description    
+  */  
+ class Person {  
+    /** the name of the person */  
+    String name  
+
+    /**  
+     * Creates a greeting method for a certain person.  
+     *  
+     * @param otherPerson the person to greet  
+     * @return a greeting message    
+     */  
+    String greet(String otherPerson) {  
+       "Hello ${otherPerson}"  
+    }  
+}  
+```
 
 GroovyDoc follows the same conventions as Java’s own JavaDoc. So you’ll be able to use the same tags as with JavaDoc.
 
