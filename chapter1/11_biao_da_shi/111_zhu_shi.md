@@ -4,12 +4,12 @@
 ## 单行注释
 单行注释以 // 开始，可以放在一行的任何位置。从//后边，一直到行尾的字符是注释的部分。
 
-// 独立的单行注释
+// 独立的单行注释  
 println "hello" // 注释一直到行尾
 
 ## 多行注释
 
-
+多行注释以 /* 开始，可以放在一行的任何位置。
 A multiline comment starts with /* and can be found at any position in the line. The characters following /* will be considered part of the comment, including new line characters, up to the first */ closing the comment. Multiline comments can thus be put at the end of a statement, or even inside a statement.
 
 /* a standalone multiline comment
