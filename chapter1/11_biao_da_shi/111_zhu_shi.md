@@ -5,7 +5,7 @@
 单行注释以 // 开始，可以放在一行的任何位置。从//后边，一直到行尾的字符是注释的部分。
 
 // 独立的单行注释
-println "hello" // a comment till the end of the line
+println "hello" // 注释一直到行尾
 
 ## 多行注释
 
