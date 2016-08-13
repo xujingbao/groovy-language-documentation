@@ -26,6 +26,8 @@
    * 1.3 程序结构
        * 1.3.1 包命名
        * 1.3.2 导入
+       * 1.3.3 脚本与类
+       * 1.3.4
 * [工具](chapter2/README.md)
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
