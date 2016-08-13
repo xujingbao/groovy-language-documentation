@@ -32,7 +32,7 @@ methods definitions
 
 Although the compiler will not complain about GroovyDoc comments not being associated with the above language elements, you should prepend those constructs with the comment right before it.
 
-
+> 
 > /**  
 >  * A Class description    
 >  */  
