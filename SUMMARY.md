@@ -33,6 +33,12 @@
    * 1.5 闭包
    * 1.6 语义   
 * [工具](chapter2/README.md)
+   * 2.1 通过命令行运行Groovy程序
+   * 2.2 编译Groovy
+   * 2.3 Groovysh
+   * 2.4 GroovyConsle
+   * 2.5 GroovyDoc
+   * 2.6 集成IDE
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
 
