@@ -18,6 +18,10 @@
      * 1.2.4 位运算符
      * 1.2.5 条件运算符
      * 1.2.6 
+     * 1.2.7
+     * 1.2.8
+     * 1.2.9
+     * 1.2.10
 * [工具](chapter2/README.md)
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
