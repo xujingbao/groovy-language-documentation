@@ -31,7 +31,7 @@
        * 1.4.1 类型
        * 1.4.2 特性
    * 1.5 闭包
-   * 1.6 语义   
+   * 1.6 语义
 * [工具](chapter2/README.md)
    * 2.1 通过命令行运行Groovy程序
    * 2.2 编译Groovy
@@ -40,7 +40,7 @@
    * 2.5 GroovyDoc
    * 2.6 集成IDE
 * [用户指南](chapter3/README.md)
-   * 3.1 开始
+   * [3.1 开始](chapter3/31_kai_shi/31_kai_shi.md)
    * 3.2 和Jave的异同
    * 3.3 Groovy开发工具包
    * 3.4 元程序设计
