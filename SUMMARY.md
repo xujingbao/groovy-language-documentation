@@ -38,6 +38,13 @@
        * 1.5.5 强制闭包
        * 1.5.6 函数式编程
    * 1.6 语义
+       * 1.6.1 声明
+       * 1.6.2 表达式
+       * 1.6.3 Promotion and coercion
+       * 1.6.4 可选择的
+       * 1.6.5 The Groovy Truth
+       * 1.6.6 Typing
+       * 1.6.7 类型检查扩展
 * [工具](chapter2/README.md)
    * 2.1 通过命令行运行Groovy程序
    * 2.2 编译Groovy
