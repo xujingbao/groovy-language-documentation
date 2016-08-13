@@ -45,5 +45,20 @@
    * 3.3 Groovy开发工具包
    * 3.4 元程序设计
    * 3.5 Dependency management with Grape
+   * 3.6 单元测试
+   * 3.7 处理JSON
+   * 3.8 集成SQL数据库
+   * 3.9 处理XML
+   * 3.10 Ant脚本任务
+   * 3.11 Groovy Ant 任务
+   * 3.12 模板引擎
+   * 3.13 支持Servlet
+   * 3.14 在Java程序中集成Groovy
+   * 3.15 领域指定语言DSL
+   * 3.16 JMX
+   * 3.17 创建Swing UI
+   * 3.18 Security
+   * 3.19 Groovy设计模式
+   * 
 * [其他](chapter4/README.md)
 
