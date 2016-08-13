@@ -12,7 +12,7 @@
        * 1.1.7 集合
        * 1.1.8 数组
        * 1.1.9 字典
-   * 1.2 操作符
+   * 1.2 运算符
 * [工具](chapter2/README.md)
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
