@@ -34,7 +34,7 @@ Although the compiler will not complain about GroovyDoc comments not being assoc
 
 
 > /**  
->  * A Class description  
+>  * A Class description    
 >  */  
 > class Person {  
 >    /** the name of the person */  
