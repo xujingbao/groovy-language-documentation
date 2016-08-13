@@ -20,7 +20,7 @@ println 1 /* one */ + 2 /* two */
 ## Groovy文档注释
 
 
-Similarly to multiline comments, GroovyDoc comments are multiline, but start with /** and end with */. Lines following the first GroovyDoc comment line can optionally start with a star *. Those comments are associated with:
+和多行注释类似, GroovyDoc注释也是多行的, 但是以 /\*\* 开始 \*/. Lines following the first GroovyDoc comment line can optionally start with a star *. Those comments are associated with:
 
 type definitions (classes, interfaces, enums, annotations),
 
