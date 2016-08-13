@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [Groovy语言](chapter1.md)
 * [工具](tools.md)
 * [用户指南](users_guides.md)
