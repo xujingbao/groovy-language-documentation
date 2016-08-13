@@ -28,7 +28,7 @@
        * 1.3.2 导入
        * 1.3.3 脚本与类
    * [1.4 面向对象](chapter1/14_mian_xiang_dui_xiang/14_mian_xiang_dui_xiang.md)
-       * 1.4.1 类型
+       * [1.4.1 类型](chapter1/14_mian_xiang_dui_xiang/141_lei_xing.md)
        * 1.4.2 特性
    * 1.5 闭包
        * 1.5.1 表达式
