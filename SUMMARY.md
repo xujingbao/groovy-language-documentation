@@ -41,6 +41,7 @@
    * 2.6 集成IDE
 * [用户指南](chapter3/README.md)
    * [3.1 开始](chapter3/31_kai_shi/31_kai_shi.md)
+       * 3.1.1 下载
    * 3.2 和Jave的异同
    * 3.3 Groovy开发工具包
    * 3.4 元程序设计
