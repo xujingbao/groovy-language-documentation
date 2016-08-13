@@ -3,8 +3,6 @@
 * [介绍](README.md)
 * [Part I Groovy 语言参考](chapter1/README.md)
 * [Part II 工具](chapter2/README.md)
-   * [2.1 Running Groovy from the commandline](chapter2/2.1_Running Groovy from the commandline/2.1_running_groovy_from_the_commandline.md)
-       * [2.1.1 groovy, the Groovy command](chapter2/2.1_Running Groovy from the commandline/211_groovy,_the_groovy_command.md)
 * 用户指南
 * 其他
 
