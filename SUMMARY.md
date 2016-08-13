@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [Groovy 语言参考](chapter1/README.md)
    * [1.1 表达式](chapter1/11_biao_da_shi/11_biao_da_shi.md)
-       * 1.1.1 注释
+       * [1.1.1 注释](chapter1/11_biao_da_shi/111_zhu_shi.md)
        * 1.1.2 关键字
        * 1.1.3 标识符
        * 1.1.4 字符串
