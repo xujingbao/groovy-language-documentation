@@ -9,6 +9,7 @@
        * 1.1.4 字符串
        * 1.1.5 数字
        * 1.1.6 布尔类型
+       * 1.1.7 集合
 * [工具](chapter2/README.md)
 * [用户指南](chapter3/README.md)
 * [其他](chapter4/README.md)
