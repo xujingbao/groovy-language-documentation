@@ -30,7 +30,7 @@
    * [1.4 面向对象](chapter1/14_mian_xiang_dui_xiang/14_mian_xiang_dui_xiang.md)
        * [1.4.1 类型](chapter1/14_mian_xiang_dui_xiang/141_lei_xing.md)
        * 1.4.2 特性
-   * 1.5 闭包
+   * [1.5 闭包](chapter1/15_bi_bao/15_bi_bao.md)
        * 1.5.1 表达式
        * 1.5.2 参数
        * 1.5.3 代理策略
