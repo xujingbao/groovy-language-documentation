@@ -7,7 +7,7 @@
        * [1.1.2 关键字](chapter1/1.1_syntax/1.1.2_keywords.md)
 * [Part II 工具](chapter2/README.md)
    * [2.1 命令行运行Groovy程序](chapter2/2.1_ming_ling_xing_yun_xing_groovy_cheng_xu.md)
-       * 2.1.1 groovy，Groovy命令
+       * [2.1.1 groovy，Groovy命令](chapter2/2.1.1_groovy_command.md)
 * 用户指南
 * 其他
 
