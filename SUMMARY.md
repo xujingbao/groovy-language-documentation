@@ -29,7 +29,7 @@
        * [1.3.3 脚本与类](chapter1/13_cheng_xu_jie_gou/133_jiao_ben_yu_lei.md)
    * [1.4 面向对象](chapter1/14_mian_xiang_dui_xiang/14_mian_xiang_dui_xiang.md)
        * [1.4.1 类型](chapter1/14_mian_xiang_dui_xiang/141_lei_xing.md)
-       * 1.4.2 特性
+       * [1.4.2 特性](chapter1/14_mian_xiang_dui_xiang/142_te_xing.md)
    * [1.5 闭包](chapter1/15_bi_bao/15_bi_bao.md)
        * [1.5.1 表达式](chapter1/15_bi_bao/151_biao_da_shi.md)
        * 1.5.2 参数
