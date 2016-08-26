@@ -32,11 +32,11 @@
        * [1.4.2 特性](chapter1/14_mian_xiang_dui_xiang/142_te_xing.md)
    * [1.5 闭包](chapter1/15_bi_bao/15_bi_bao.md)
        * [1.5.1 表达式](chapter1/15_bi_bao/151_biao_da_shi.md)
-       * 1.5.2 参数
-       * 1.5.3 代理策略
-       * [1.5.4 GStrings闭包](chapter1/15_bi_bao/154_gstringsbi_bao.md)
-       * 1.5.5 强制闭包
-       * 1.5.6 函数式编程
+       * [1.5.2 参数](chapter1/15_bi_bao/152_can_shu.md)
+       * [1.5.3 代理策略](chapter1/15_bi_bao/153_dai_li_ce_lve.md)
+       * 1.5.4 GStrings闭包
+       * [1.5.5 强制闭包](chapter1/15_bi_bao/155_qiang_zhi_bi_bao.md)
+       * [1.5.6 函数式编程](chapter1/15_bi_bao/156_han_shu_shi_bian_cheng.md)
    * [1.6 语义](chapter1/16_yu_yi/16_yu_yi.md)
        * [1.6.1 声明](chapter1/16_yu_yi/161_sheng_ming.md)
        * 1.6.2 表达式
