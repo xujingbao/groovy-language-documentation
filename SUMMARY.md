@@ -19,7 +19,7 @@
        * [1.2.4 位运算符](chapter1/12_yun_suan_fu/124_wei_yun_suan_fu.md)
        * [1.2.5 条件运算符](chapter1/12_yun_suan_fu/125_tiao_jian_yun_suan_fu.md)
        * [1.2.6 对象运算符](chapter1/12_yun_suan_fu/126_dui_xiang_yun_suan_fu.md)
-       * 1.2.7 正则表达运算符
+       * [1.2.7 正则表达运算符](chapter1/12_yun_suan_fu/127_zheng_ze_biao_da_yun_suan_fu.md)
        * 1.2.8 其他运算符
        * 1.2.9 运算符优先级
        * 1.2.10 运算符重载
