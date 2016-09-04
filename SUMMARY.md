@@ -17,7 +17,7 @@
        * [1.2.2 关系运算符](chapter1/12_yun_suan_fu/122_guan_xi_yun_suan_fu.md)
        * [1.2.3 逻辑运算符](chapter1/12_yun_suan_fu/123_luo_ji_yun_suan_fu.md)
        * [1.2.4 位运算符](chapter1/12_yun_suan_fu/124_wei_yun_suan_fu.md)
-       * 1.2.5 条件运算符
+       * [1.2.5 条件运算符](chapter1/12_yun_suan_fu/125_tiao_jian_yun_suan_fu.md)
        * 1.2.6 对象运算符
        * 1.2.7 正则表达运算符
        * 1.2.8 其他运算符
