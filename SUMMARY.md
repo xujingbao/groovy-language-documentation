@@ -42,7 +42,7 @@
        * [1.6.2 表达式](chapter1/16_yu_yi/162_biao_da_shi.md)
        * [1.6.3 Promotion and coercion](chapter1/16_yu_yi/163_promotion_and_coercion.md)
        * [1.6.4 可选择的](chapter1/16_yu_yi/164_ke_xuan_ze_de.md)
-       * 1.6.5 The Groovy Truth
+       * [1.6.5 The Groovy Truth](chapter1/16_yu_yi/165_the_groovy_truth.md)
        * 1.6.6 Typing
        * 1.6.7 类型检查扩展
 * [工具](chapter2/README.md)
