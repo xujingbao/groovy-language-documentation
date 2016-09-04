@@ -39,7 +39,7 @@
        * [1.5.6 函数式编程](chapter1/15_bi_bao/156_han_shu_shi_bian_cheng.md)
    * [1.6 语义](chapter1/16_yu_yi/16_yu_yi.md)
        * [1.6.1 声明](chapter1/16_yu_yi/161_sheng_ming.md)
-       * 1.6.2 表达式
+       * [1.6.2 表达式](chapter1/16_yu_yi/162_biao_da_shi.md)
        * 1.6.3 Promotion and coercion
        * 1.6.4 可选择的
        * 1.6.5 The Groovy Truth
