@@ -49,7 +49,7 @@
    * [2.1 通过命令行运行Groovy程序](chapter2/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x_.md)
        * [2.1.1 groovy 命令](chapter2/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x/211_groovy_ming_ling.md)
    * [2.2 编译Groovy](chapter2/22_bian_yi_groovy/22_bian_yi_groovy.md)
-       * 2.2.1 groovyc 编译器
+       * [2.2.1 groovyc 编译器](chapter2/22_bian_yi_groovy/221_groovyc_bian_yi_qi.md)
        * 2.2.2 Ant task
        * 2.2.3 Gant
        * 2.2.4 Gradle
