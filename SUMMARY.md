@@ -47,15 +47,15 @@
        * [1.6.7 类型检查扩展](chapter1/16_yu_yi/167_lei_xing_jian_cha_kuo_zhan.md)
 * [工具](chapter2/README.md)
    * [2.1 通过命令行运行Groovy程序](chapter2/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x.md)
-     * 2.1.1 groovy 命令
+       * [2.1.1 groovy 命令](chapter2/21_tong_guo_ming_ling_xing_yun_xing_groovy_cheng_x/211_groovy_ming_ling.md)
    * 2.2 编译Groovy
-     * 2.2.1 groovyc 编译器
-     * 2.2.2 Ant task
-     * 2.2.3 Gant
-     * 2.2.4 Gradle
-     * 2.2.5 Maven integration
-     * 2.2.6 Joint compilation
-     * 2.2.7 Android support
+       * 2.2.1 groovyc 编译器
+       * 2.2.2 Ant task
+       * 2.2.3 Gant
+       * 2.2.4 Gradle
+       * 2.2.5 Maven integration
+       * 2.2.6 Joint compilation
+       * 2.2.7 Android support
    * 2.3 Groovysh
    * 2.4 GroovyConsle
    * 2.5 GroovyDoc
