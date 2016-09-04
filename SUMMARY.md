@@ -53,7 +53,7 @@
        * [2.2.2 Ant task](chapter2/22_bian_yi_groovy/222_ant_task.md)
        * [2.2.3 Gant](chapter2/22_bian_yi_groovy/223_gant.md)
        * [2.2.4 Gradle](chapter2/22_bian_yi_groovy/224_gradle.md)
-       * 2.2.5 Maven integration
+       * [2.2.5 Maven integration](chapter2/22_bian_yi_groovy/225_maven_integration.md)
        * 2.2.6 Joint compilation
        * 2.2.7 Android support
    * 2.3 Groovysh
