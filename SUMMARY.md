@@ -40,7 +40,7 @@
    * [1.6 语义](chapter1/16_yu_yi/16_yu_yi.md)
        * [1.6.1 声明](chapter1/16_yu_yi/161_sheng_ming.md)
        * [1.6.2 表达式](chapter1/16_yu_yi/162_biao_da_shi.md)
-       * 1.6.3 Promotion and coercion
+       * [1.6.3 Promotion and coercion](chapter1/16_yu_yi/163_promotion_and_coercion.md)
        * 1.6.4 可选择的
        * 1.6.5 The Groovy Truth
        * 1.6.6 Typing
