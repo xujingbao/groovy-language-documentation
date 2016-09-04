@@ -15,7 +15,7 @@
    * [1.2 运算符](chapter1/12_yun_suan_fu/12_yun_suan_fu.md)
        * [1.2.1 算术运算符](chapter1/12_yun_suan_fu/121_suan_zhu_yun_suan_fu.md)
        * [1.2.2 关系运算符](chapter1/12_yun_suan_fu/122_guan_xi_yun_suan_fu.md)
-       * 1.2.3 逻辑运算符
+       * [1.2.3 逻辑运算符](chapter1/12_yun_suan_fu/123_luo_ji_yun_suan_fu.md)
        * 1.2.4 位运算符
        * 1.2.5 条件运算符
        * 1.2.6 对象运算符
