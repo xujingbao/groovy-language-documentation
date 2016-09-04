@@ -55,7 +55,7 @@
        * [2.2.4 Gradle](chapter2/22_bian_yi_groovy/224_gradle.md)
        * [2.2.5 Maven integration](chapter2/22_bian_yi_groovy/225_maven_integration.md)
        * [2.2.6 Joint compilation](chapter2/22_bian_yi_groovy/226_joint_compilation.md)
-       * 2.2.7 Android support
+       * [2.2.7 Android support](chapter2/22_bian_yi_groovy/227_android_support.md)
    * 2.3 Groovysh
    * 2.4 GroovyConsle
    * 2.5 GroovyDoc
