@@ -44,7 +44,7 @@
        * [1.6.4 可选择的](chapter1/16_yu_yi/164_ke_xuan_ze_de.md)
        * [1.6.5 The Groovy Truth](chapter1/16_yu_yi/165_the_groovy_truth.md)
        * [1.6.6 Typing](chapter1/16_yu_yi/166_typing.md)
-       * 1.6.7 类型检查扩展
+       * [1.6.7 类型检查扩展](chapter1/16_yu_yi/167_lei_xing_jian_cha_kuo_zhan.md)
 * [工具](chapter2/README.md)
    * 2.1 通过命令行运行Groovy程序
    * 2.2 编译Groovy
