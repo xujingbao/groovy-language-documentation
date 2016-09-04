@@ -10,7 +10,7 @@
        * [1.1.5 数字](chapter1/11_biao_da_shi/115_shu_zi.md)
        * [1.1.6 布尔类型](chapter1/11_biao_da_shi/116_bu_er_lei_xing.md)
        * [1.1.7 集合](chapter1/11_biao_da_shi/117_ji_he.md)
-       * 1.1.8 数组
+       * [1.1.8 数组](chapter1/11_biao_da_shi/118_shu_zu.md)
        * 1.1.9 字典
    * [1.2 运算符](chapter1/12_yun_suan_fu/12_yun_suan_fu.md)
        * [1.2.1 算术运算符](chapter1/12_yun_suan_fu/121_suan_zhu_yun_suan_fu.md)
